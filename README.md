@@ -46,11 +46,16 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
 
 ## Screenshots
 
-### User Input Panel
-![User Input](Capture d'écran 2025-04-18 093346.png)
+<div align="center">
+  <h3>User Input Interface</h3>
+  <img src="user-input.png" alt="User Input Panel" width="400">
+  <p>Shows the ticker input field and risk/return preference sliders</p>
 
-### Optimization Results
-![Optimization Results](Capture d'écran 2025-04-18 093414.png)
+  <h3>Optimization Results</h3>
+  <img src="optimization-results.png" alt="Optimization Results" width="400">
+  <p>Displays portfolio weights and performance metrics</p>
 
-### Expected Returns
-![Expected Returns](Capture d'écran 2025-04-18 093429.png)
+  <h3>Expected Returns</h3>
+  <img src="expected-returns.png" alt="Expected Returns" width="400">
+  <p>Shows calculated expected returns for each asset</p>
+</div>

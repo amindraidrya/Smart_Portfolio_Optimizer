@@ -55,8 +55,8 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
     <td align="center"><img src="expected-returns.png" width="300" alt="Returns Table"></td>
   </tr>
   <tr>
-    <td align="center"><b>User Input</b><br>Customize your portfolio</td>
-    <td align="center"><b>Optimization</b><br>AI-powered allocation</td>
-    <td align="center"><b>Analytics</b><br>Detailed projections</td>
+    <td align="center"><b>User Input</b><br>User Input Interface</td>
+    <td align="center"><b>Optimization</b><br>Optimization Results</td>
+    <td align="center"><b>Analytics</b><br>Expected Returns</td>
   </tr>
 </table>

@@ -48,7 +48,6 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
 
 <div align="center">
 
-### Option 1: Minimal Card Layout
 <table>
   <tr>
     <td align="center"><img src="user-input.png" width="300" alt="Input Panel"></td>
@@ -61,13 +60,3 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
     <td align="center"><b>Analytics</b><br>Detailed projections</td>
   </tr>
 </table>
-
----
-
-### Option 2: Animated GIF (Recommended)
-![Workflow Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyN2UyZ3A2eW1mOGV6Y2R4Z3B6dGN4b2Y2eHpjdTJtYzR6eGZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8gQg2f5Qb8k/giphy.gif)
-*Example workflow - replace with your actual screenshots*
-
-```bash
-# Convert screenshots to GIF:
-convert -delay 100 -loop 0 *.png animation.gif

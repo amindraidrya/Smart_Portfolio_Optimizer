@@ -47,10 +47,10 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
 ## Screenshots
 
 ### User Input Panel
-![User Input](user-input.png)
+![User Input](Capture d'écran 2025-04-18 093346.png)
 
 ### Optimization Results
-![Optimization Results](optimization-results.png)
+![Optimization Results](Capture d'écran 2025-04-18 093414.png)
 
 ### Expected Returns
-![Expected Returns](expected-returns.png)
+![Expected Returns](Capture d'écran 2025-04-18 093429.png)

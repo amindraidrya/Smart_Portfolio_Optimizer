@@ -44,18 +44,30 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
  - Optimal portfolio
 4. Results Display: Shows the optimal weights and performance metrics
 
-## Screenshots
+## 📸 Screenshots
 
 <div align="center">
-  <h3>User Input Interface</h3>
-  <img src="user-input.png" alt="User Input Panel" width="400">
-  <p>Shows the ticker input field and risk/return preference sliders</p>
 
-  <h3>Optimization Results</h3>
-  <img src="optimization-results.png" alt="Optimization Results" width="400">
-  <p>Displays portfolio weights and performance metrics</p>
+### Option 1: Minimal Card Layout
+<table>
+  <tr>
+    <td align="center"><img src="user-input.png" width="300" alt="Input Panel"></td>
+    <td align="center"><img src="optimization-results.png" width="300" alt="Results Dashboard"></td>
+    <td align="center"><img src="expected-returns.png" width="300" alt="Returns Table"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>User Input</b><br>Customize your portfolio</td>
+    <td align="center"><b>Optimization</b><br>AI-powered allocation</td>
+    <td align="center"><b>Analytics</b><br>Detailed projections</td>
+  </tr>
+</table>
 
-  <h3>Expected Returns</h3>
-  <img src="expected-returns.png" alt="Expected Returns" width="400">
-  <p>Shows calculated expected returns for each asset</p>
-</div>
+---
+
+### Option 2: Animated GIF (Recommended)
+![Workflow Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyN2UyZ3A2eW1mOGV6Y2R4Z3B6dGN4b2Y2eHpjdTJtYzR6eGZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8gQg2f5Qb8k/giphy.gif)
+*Example workflow - replace with your actual screenshots*
+
+```bash
+# Convert screenshots to GIF:
+convert -delay 100 -loop 0 *.png animation.gif

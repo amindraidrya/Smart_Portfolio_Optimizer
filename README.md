@@ -14,3 +14,32 @@ A web-based portfolio optimization tool that applies Modern Portfolio Theory (MP
 - **Performance Metrics**: Calculates expected return, volatility, and Sharpe ratio
 - **Data Integration**: Fetches real-time stock data using Yahoo Finance API
 - **Monte Carlo Simulation**: Shows 5,000 random portfolios for comparison
+
+## Usage
+
+1. Run the Streamlit app:
+   ```bash
+   streamlit run portfolio_optimizer.py
+2. In the sidebar:
+ - Enter stock tickers (space separated)
+ - Adjust risk preference (1-10 scale)
+ - Adjust expected return preference (1-10 scale)
+
+3. View the results:
+
+ - Efficient frontier plot with optimal portfolio
+ - Optimal asset allocation weights
+ - Portfolio performance metrics
+
+## How It Works
+
+1. Data Collection: Fetches 5 years of historical closing prices for the selected tickers
+2. Optimization: Uses PyPortfolioOpt to:
+ - Calculate expected returns and covariance matrix
+ - Find the optimal portfolio based on user preferences
+ - Fall back to max Sharpe ratio if target return is not achievable
+3. Visualization: Plots the efficient frontier with:
+ - Random portfolios from Monte Carlo simulation
+ - Individual assets
+ - Optimal portfolio
+4. Results Display: Shows the optimal weights and performance metrics
